@@ -25,6 +25,12 @@ seen, never edit or delete one the owner created — and everything lands in
 separate `brain_*` tables, so removing it is one statement the owner can reason
 about.
 
+## Rights
+
+See LICENSE. Published for one purpose - so installed copies can fetch signed
+bundles. The compiled work (selection, arrangement, classification) is
+protected; the individual facts inside are not claimed as property.
+
 ## What will never be here
 
 Anything derived from a customer's data, and anything belonging to a customer —
