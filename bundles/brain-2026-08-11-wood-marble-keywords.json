@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "bundle_id": "brain-2026-08-11-wood-marble-keywords",
+  "published_at": "2026-08-11T17:13:23",
+  "sections": {
+    "taxonomy_rules": [
+      {
+        "kind": "series_keyword",
+        "keyword": "sheesham",
+        "series": "wooden",
+        "ord": 10001
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "rubberwood",
+        "series": "wooden",
+        "ord": 10002
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "acacia",
+        "series": "wooden",
+        "ord": 10003
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "meranti",
+        "series": "wooden",
+        "ord": 10004
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "merbau",
+        "series": "wooden",
+        "ord": 10005
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "iroko",
+        "series": "wooden",
+        "ord": 10006
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "padauk",
+        "series": "wooden",
+        "ord": 10007
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "bamboo",
+        "series": "wooden",
+        "ord": 10008
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "hickory",
+        "series": "wooden",
+        "ord": 10009
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "poplar",
+        "series": "wooden",
+        "ord": 10010
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "larch",
+        "series": "wooden",
+        "ord": 10011
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "spruce",
+        "series": "wooden",
+        "ord": 10012
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "sandstone",
+        "series": "marble",
+        "ord": 10101
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "limestone",
+        "series": "marble",
+        "ord": 10102
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "quartzite",
+        "series": "marble",
+        "ord": 10103
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "dolomite",
+        "series": "marble",
+        "ord": 10104
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "basalt",
+        "series": "marble",
+        "ord": 10105
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "terrazzo",
+        "series": "marble",
+        "ord": 10106
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "breccia",
+        "series": "marble",
+        "ord": 10107
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "crema",
+        "series": "marble",
+        "ord": 10108
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "botticino",
+        "series": "marble",
+        "ord": 10109
+      },
+      {
+        "kind": "series_keyword",
+        "keyword": "portoro",
+        "series": "marble",
+        "ord": 10110
+      }
+    ]
+  },
+  "signature": "2d16d243089c1d247618138dd78b11fc7c13a3928312c6ea1ffd387e8721178710f90d154045ba85dd5da4ea7199ccc4758e1aa6241059b4e0c5c9ac23b21206"
+}
