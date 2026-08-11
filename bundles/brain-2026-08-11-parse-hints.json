@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "bundle_id": "brain-2026-08-11",
+  "published_at": "2026-08-11T10:28:41",
+  "sections": {
+    "parse_hints": [
+      {
+        "key": "date",
+        "value": [
+          "voucher dt",
+          "vch dt",
+          "transaction date",
+          "trans date",
+          "doc date"
+        ]
+      },
+      {
+        "key": "client",
+        "value": [
+          "party's a/c name",
+          "buyer name",
+          "customer name",
+          "party ledger",
+          "account"
+        ]
+      },
+      {
+        "key": "product",
+        "value": [
+          "item description",
+          "particulars of goods",
+          "material",
+          "material description"
+        ]
+      },
+      {
+        "key": "quantity",
+        "value": [
+          "qty.",
+          "quantity (nos)",
+          "billed quantity",
+          "pcs",
+          "nos."
+        ]
+      },
+      {
+        "key": "rate",
+        "value": [
+          "rate per unit",
+          "price per unit",
+          "rate incl",
+          "unit price"
+        ]
+      },
+      {
+        "key": "amount",
+        "value": [
+          "total amount",
+          "assessable value",
+          "line total"
+        ]
+      },
+      {
+        "key": "invoice",
+        "value": [
+          "vch no.",
+          "voucher number",
+          "doc no",
+          "document no",
+          "supplier invoice no"
+        ]
+      },
+      {
+        "key": "cost",
+        "value": [
+          "landed cost",
+          "purchase price",
+          "buying rate"
+        ]
+      },
+      {
+        "key": "sqft",
+        "value": [
+          "sq. ft",
+          "sq.ft.",
+          "area per sheet"
+        ]
+      },
+      {
+        "key": "bill_date",
+        "value": [
+          "bill dt",
+          "ref date",
+          "reference date"
+        ]
+      }
+    ]
+  },
+  "signature": "def462081b73c2159627592ddfb02256b683a634eaaa72b817c67b9e50bc0416d5a1c8f5d8cbf0cc8a5932f1cea3c236663c2651a599178045ae3898461d4b0c"
+}
